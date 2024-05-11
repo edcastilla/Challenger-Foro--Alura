@@ -106,6 +106,6 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 # <img src="editor.png" width="80" height="80">Autor
 Edgar Castilla<br>
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma&theme=light)](https://skillicons.dev)<br>
 
 
