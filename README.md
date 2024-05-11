@@ -38,7 +38,7 @@ Spring data jpa:https://docs.spring.io/spring-data/jpa/reference/<br>
 <img src="postman.png" width="80" height="80"><h1 style="color: #007bff;">Postman</h1>
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
 
-# Autor
+# <img src="editor.png" width="80" height="80">Autor
 Edgar Castilla
 
 
