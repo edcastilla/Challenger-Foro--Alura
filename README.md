@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   <li><a href="#seccion3">Estructura del Proyecto.</a></li>
   <li><a href="#seccion4">Modelo Entidad Relación.</a></li>
   <li><a href="#seccion5">Postman.</a></li>
+  <li><a href="#seccion6">CRUD</a></li>
+  <li><a href="#seccion7">GIT</a></li>
 </ol>
 
    
@@ -71,13 +73,14 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
 <p><b>CRUD</b>  </p>
+<h2 id="seccion6">CRUD</h2>
 <ol>
   <li>GET<br> </li>
   <li>POST</li>
   <li>PUT</li>
   <li>DELETE</li>
 </ol>
-
+<a href="#indice"><button>Ir al Índice</button></a> 
 ```
 {
   "Name": "John",
@@ -87,13 +90,14 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 }
 ```
 <p><b> GIT</b> </p>
+<h2 id="seccion7">GIT</h2>
 <ol>
   <li>git init<br> </li>
   <li>git status</li>
   <li>git add .</li>
   <li>git push</li>
 </ol>
-
+<a href="#indice"><button>Ir al Índice</button></a> 
 # <img src="editor.png" width="80" height="80">Autor
 Edgar Castilla
 
