@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   <li>Clona este repositorio en tu máquina local:<br> git clone
    https://github.com/edcastilla/Challenger-Foro--Alura</li>
   <li>Abre el proyecto en su IDE Favorito.</li>
-  <li>Recuerda tener instalado Java en tu sistema.</li>
+  <li>Recuerda tener instalado Java en su sistema.</li>
 </ol>
   </div>
   
