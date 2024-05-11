@@ -1,6 +1,6 @@
 
    
-# Challenger-Foro--Alura
+# Challenger-Foro--Alura.
 Bienvenidos al Challenger sobre el foro propuesto por Alura<br>
 Video de la aplicación:
 https://www.youtube.com/watch?v=GNavp28HDZM
@@ -34,8 +34,8 @@ Spring data jpa:https://docs.spring.io/spring-data/jpa/reference/<br>
 <div style="background-color: #e6f3ff; padding: 20px;">
 <img src="ENTIDAD_RELACION_MYSQLWORBENCH.JPG" width="500" height="500">
 </div>
-# Postman <img src="postman.png" width="80" height="80">
 
+<img src="postman.png" width="80" height="80"><h1 style="color: #007bff;">Postman</h1>
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
 
 # Autor
