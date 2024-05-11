@@ -91,6 +91,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 }
 ```
 <p><b> GIT</b> </p>
+<a href="#indice"><button>Ir al Índice</button></a> 
 <h2 id="seccion7">GIT</h2>
 <ol>
   <li>git init<br> </li>
@@ -98,7 +99,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   <li>git add .</li>
   <li>git push</li>
 </ol>
-<a href="#indice"><button>Ir al Índice</button></a> 
+
 # <img src="editor.png" width="80" height="80">Autor
 Edgar Castilla
 
