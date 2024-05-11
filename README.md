@@ -14,7 +14,8 @@
 <b><h3>Video de la aplicación:</h3></b>
 https://www.youtube.com/watch?v=GNavp28HDZM
 
- <  img src="instalacion.png" width="80" height="80"> <h1 id="seccion1">Instalación.</h1>
+# <img src="instalacion.png" width="80" height="80"> Instalación.
+<h2 id="seccion1">Instalacion</h2>
 <div>
 <ol>
   <li>Clona este repositorio en tu máquina local:<br> git clone
@@ -25,7 +26,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   </div>
   
 # <img src="software.png" width="80" height="80">Software y herramientas utilizadas.
-
+<h2 id="seccion2">Software y herramientas utilizadas.</h2>
 <ul>
     <li><b>IntelliJ id </b>:https://www.jetbrains.com/es-es/idea/ </li>
     <li><b>Spring initializr </b>:https://start.spring.io/</li>
@@ -40,6 +41,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 
 # <img src="carpeta.png" width="80" height="80">Estructura del proyecto.
+<h2 id="seccion3">Estructura del proyecto.</h2>
 
 <img src="IMAGENINTELLIJID.JPG" width="500" height="500">
 
@@ -47,8 +49,9 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 <div style="background-color: #e6f3ff; padding: 20px;">
 <img src="ENTIDAD_RELACION_MYSQLWORBENCH.JPG" width="500" height="500">
 </div>
-
+<h2 id="seccion4">Modelo Entidad Relación.</h2>
 <img src="postman.png" width="80" height="80"><h1 style="color: #007bff;">Postman</h1>
+<h2 id="seccion5">Postman.</h2>
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
 
 # <img src="editor.png" width="80" height="80">Autor
