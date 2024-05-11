@@ -2,11 +2,11 @@
 <h2 id="indice">Índice de la Página</h2>
 
 <ol>
-  <li><a href="#seccion1">Instalación</a></li>
-  <li><a href="#seccion2">Software y Herramientas Utilizadas</a></li>
-  <li><a href="#seccion3">Estructura del Proyecto</a></li>
-  <li><a href="#seccion4">Modelo Entidad Relación</a></li>
-  <li><a href="#seccion5">Postman</a></li>
+  <li><a href="#seccion1">Instalación.</a></li>
+  <li><a href="#seccion2">Software y Herramientas Utilizadas.</a></li>
+  <li><a href="#seccion3">Estructura del Proyecto.</a></li>
+  <li><a href="#seccion4">Modelo Entidad Relación.</a></li>
+  <li><a href="#seccion5">Postman.</a></li>
 </ol>
 
    
