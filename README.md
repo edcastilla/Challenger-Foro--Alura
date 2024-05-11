@@ -16,15 +16,19 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   </div>
   
 # <img src="software.png" width="80" height="80">Software y herramientas utilizadas.
-IntelliJ id :https://www.jetbrains.com/es-es/idea/ <br>
-Spring initializr :https://start.spring.io/<br>
-JSON Web Tokens:https://jwt.io/<br>
-Spring Security:https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html<br>
-bcript:https://bcrypt.online/<br>
-Mysql Workbench:https://www.mysql.com/products/workbench/<br>
-Postman:https://www.postman.com/<br>
-Java 17:https://www.oracle.com/java/technologies/downloads/<br>
-Spring data jpa:https://docs.spring.io/spring-data/jpa/reference/<br>
+
+<ul>
+    <li>IntelliJ id :https://www.jetbrains.com/es-es/idea/ </li>
+    <li>Spring initializr :https://start.spring.io/</li>
+    <li>Spring Security:https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html</li>
+    <li>Mysql Workbench:https://www.mysql.com/products/workbench/</li>
+    <li>Postman:https://www.postman.com/</li>
+    <li>Java 17:https://www.oracle.com/java/technologies/downloads/<br></li>
+    <li>Spring data jpa:https://docs.spring.io/spring-data/jpa/reference/<br></li>
+   
+</ul>
+
+
 
 # <img src="carpeta.png" width="80" height="80">Estructura del proyecto.
 
