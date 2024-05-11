@@ -94,9 +94,9 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   "perfil":2
 }
 ```
+<h2 id="seccion7">GIT</h2>
 <p><b> GIT</b> </p>
 <a href="#indice"><button>Ir al Índice</button></a> 
-<h2 id="seccion7">GIT</h2>
 <ol>
   <li>git init<br> </li>
   <li>git status</li>
