@@ -1,6 +1,5 @@
 
-<h1 id="indice">Índice de la Página</h1>
-<h1>Índice de la Página</h1>
+<h2 id="indice">Índice de la Página</h2>
 
 <ol>
   <li><a href="#seccion1">Instalacion</a></li>
