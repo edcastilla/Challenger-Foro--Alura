@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
-<a href="#indice"><button>Ir al Índice</button></a> 
+
 <p><b>CRUD</b>  </p>
 <h2 id="seccion6">CRUD</h2>
 <ol>
