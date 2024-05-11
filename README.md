@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
     <li><b>Postman</b>:https://www.postman.com/</li>
     <li><b>Java 17</b>:https://www.oracle.com/java/technologies/downloads/<br></li>
     <li><b>Spring data jpa</b>:https://docs.spring.io/spring-data/jpa/reference/<br></li>
-   
+   <li><b>Maven Repository:https://mvnrepository.com/<br></li>
 </ul>
 
 
