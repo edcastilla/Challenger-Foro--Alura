@@ -5,7 +5,7 @@ Bienvenidos al Challenger sobre el foro propuesto por Alura<br>
 Video de la aplicación:
 https://www.youtube.com/watch?v=GNavp28HDZM
 
-# <img src="instalacion.png" width="80" height="80">Instalación
+#  <img src="instalacion.png" width="80" height="80">Instalación
 <div>
 <ol>
   <li>Clona este repositorio en tu máquina local:<br> git clone
