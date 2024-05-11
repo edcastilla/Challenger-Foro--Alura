@@ -33,13 +33,13 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 # <img src="software.png" width="80" height="80">Software y herramientas utilizadas.
 <h2 id="seccion2">Software y herramientas utilizadas.</h2>
 <ul>
-    <li><b>IntelliJ id. link</b> :&nbsp;https://www.jetbrains.com/es-es/idea/ </li>
-    <li><b>Spring initializr. link</b> :&nbsp;https://start.spring.io/</li>
-    <li><b>Spring Security. link</b> :&nbsp;https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html</li>
-    <li><b>Mysql Workbench. link</b> :&nbsp;https://www.mysql.com/products/workbench/</li>
-    <li><b>Postman. link</b> :&nbsp;https://www.postman.com/</li>
-    <li><b>Java 17. link</b> :&nbsp;https://www.oracle.com/java/technologies/downloads/<br></li>
-    <li><b>Spring data jpa. link</b> :https://docs.spring.io/spring-data/jpa/reference/<br></li>
+    <li><b>IntelliJ id. link :&nbsp;https://www.jetbrains.com/es-es/idea/ </li>
+    <li><b>Spring initializr. link :&nbsp;https://start.spring.io/</li>
+    <li><b>Spring Security. link :&nbsp;https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html</li>
+    <li><b>Mysql Workbench. link :&nbsp;https://www.mysql.com/products/workbench/</li>
+    <li><b>Postman. link :&nbsp;https://www.postman.com/</li>
+    <li><b>Java 17. link :&nbsp;https://www.oracle.com/java/technologies/downloads/<br></li>
+    <li><b>Spring data jpa. link :https://docs.spring.io/spring-data/jpa/reference/<br></li>
    <li><b>Maven Repository. link :&nbsp;https://mvnrepository.com/<br></li>
 </ul>
 <a href="#indice"><button>Ir al Índice</button></a>
