@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 </ol>
   </div>
   
-# Software y herramientas utilizadas.
+# <img src="software.png" width="80" height="80">Software y herramientas utilizadas.
 IntelliJ id :https://www.jetbrains.com/es-es/idea/ <br>
 Spring initializr :https://start.spring.io/<br>
 JSON Web Tokens:https://jwt.io/<br>
