@@ -106,6 +106,6 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 # <img src="editor.png" width="80" height="80">Autor Edgar Castilla
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,html,css,js,docker,flask,git,github,idea,kubernetes,linux,mongodb,mysql,php,postgres,postman,py,pytorch,replit,spring,sqlite,tensorflow,vscode,figma&theme=light)]
+![My Skills](https://skillicons.dev/icons?i=java,nodejs,html,css,js,docker,flask,git,github,idea,kubernetes,linux,mongodb,mysql,php,postgres,postman,py,pytorch,replit,spring,sqlite,tensorflow,vscode,figma&theme=light)
 
 
