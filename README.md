@@ -5,7 +5,7 @@ Bienvenidos al Challenger sobre el foro propuesto por Alura<br>
 Video de la aplicación:
 https://www.youtube.com/watch?v=GNavp28HDZM
 
-#  <img src="instalacion.png" width="80" height="80">Instalación
+#  <img src="instalacion.png" width="80" height="80">Instalación.
 <div>
 <ol>
   <li>Clona este repositorio en tu máquina local:<br> git clone
@@ -26,11 +26,11 @@ Postman:https://www.postman.com/<br>
 Java 17:https://www.oracle.com/java/technologies/downloads/<br>
 Spring data jpa:https://docs.spring.io/spring-data/jpa/reference/<br>
 
-# <img src="carpeta.png" width="80" height="80">Estructura del proyecto
+# <img src="carpeta.png" width="80" height="80">Estructura del proyecto.
 
 <img src="IMAGENINTELLIJID.JPG" width="500" height="500">
 
-# <img src="tabla.png" width="80" height="80">Modelo Entidad Relación
+# <img src="tabla.png" width="80" height="80">Modelo Entidad Relación.
 <div style="background-color: #e6f3ff; padding: 20px;">
 <img src="ENTIDAD_RELACION_MYSQLWORBENCH.JPG" width="500" height="500">
 </div>
