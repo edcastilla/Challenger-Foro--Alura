@@ -72,6 +72,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 <a href="#indice"><button>Ir al Índice</button></a>
 
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
+<a href="#indice"><button>Ir al Índice</button></a> 
 <p><b>CRUD</b>  </p>
 <h2 id="seccion6">CRUD</h2>
 <ol>
@@ -80,7 +81,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   <li>PUT</li>
   <li>DELETE</li>
 </ol>
-<a href="#indice"><button>Ir al Índice</button></a> 
+
 ```
 {
   "Name": "John",
