@@ -1,7 +1,7 @@
 
    
 # <img src="challenger.png" width="80" height="80">Challenger-Foro--Alura.
-Bienvenidos al Challenger sobre el foro propuesto por Alura<br>
+<b>Bienvenidos al Challenger sobre el Foro propuesto por Alura</b><br>
 Video de la aplicación:
 https://www.youtube.com/watch?v=GNavp28HDZM
 
