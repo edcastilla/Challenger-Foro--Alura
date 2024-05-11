@@ -1,0 +1,19 @@
+{
+"id":2,
+"name":"jorge",
+"lastname":"gonzalez"
+
+}
+
+{
+ "id":2,
+ "name":"eduardo",
+ "lastname":"martinez",  
+ "fecha_nacimiento":"1990-08-25",
+
+"nacionalidad":"argentina",
+
+"telefono":"123456789"
+
+
+}
