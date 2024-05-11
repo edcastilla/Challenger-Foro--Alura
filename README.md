@@ -67,9 +67,10 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 
 <img src="postman.png" width="80" height="80"><h1 style="color: #007bff;">Postman</h1>
+<a href="#indice"><button>Ir al Índice</button></a>
 <h2 id="seccion5">Postman.</h2>
 
-<a href="#indice"><button>Ir al Índice</button></a>
+
 
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
 <a href="#indice"><button>Ir al Índice</button></a> 
