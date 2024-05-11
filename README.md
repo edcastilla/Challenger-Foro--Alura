@@ -18,13 +18,13 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 # <img src="software.png" width="80" height="80">Software y herramientas utilizadas.
 
 <ul>
-    <li>IntelliJ id :https://www.jetbrains.com/es-es/idea/ </li>
-    <li>Spring initializr :https://start.spring.io/</li>
-    <li>Spring Security:https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html</li>
-    <li>Mysql Workbench:https://www.mysql.com/products/workbench/</li>
-    <li>Postman:https://www.postman.com/</li>
-    <li>Java 17:https://www.oracle.com/java/technologies/downloads/<br></li>
-    <li>Spring data jpa:https://docs.spring.io/spring-data/jpa/reference/<br></li>
+    <li><b>IntelliJ id </b>:https://www.jetbrains.com/es-es/idea/ </li>
+    <li><b>Spring initializr </b>:https://start.spring.io/</li>
+    <li><b>Spring Security</b>:https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html</li>
+    <li><b>Mysql Workbench</b>:https://www.mysql.com/products/workbench/</li>
+    <li><b>Postman</b>:https://www.postman.com/</li>
+    <li><b>Java 17</b>:https://www.oracle.com/java/technologies/downloads/<br></li>
+    <li><b>Spring data jpa</b>:https://docs.spring.io/spring-data/jpa/reference/<br></li>
    
 </ul>
 
