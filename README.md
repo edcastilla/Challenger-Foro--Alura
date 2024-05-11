@@ -3,7 +3,8 @@
 <b><h3>Bienvenidos al Challenger sobre el Foro propuesto por Alura.</h3></b><br>
 <b><h2>Video de la aplicación:</h2></b>
 https://www.youtube.com/watch?v=GNavp28HDZM
-
+<b><h2>Desarrollo Challenger Foro:</h2></b>
+<p>Crearemos una API REST usando Spring.CRUD (CREATE, READ, UPDATE, DELETE) </p>
 <h2 id="indice">Índice de la Página</h2>
 
 <ol>
