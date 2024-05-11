@@ -30,11 +30,11 @@ Spring data jpa:https://docs.spring.io/spring-data/jpa/reference/<br>
 
 <img src="IMAGENINTELLIJID.JPG" width="500" height="500">
 
-# <img src="tabla.png" width="80" height="80">Modelo Entidad Relacion
+# <img src="tabla.png" width="80" height="80">Modelo Entidad Relación
 <div style="background-color: #e6f3ff; padding: 20px;">
 <img src="ENTIDAD_RELACION_MYSQLWORBENCH.JPG" width="500" height="500">
 </div>
-#<img src="postman.png" width="80" height="80">Postman
+# Postman <img src="postman.png" width="80" height="80">
 
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
 
