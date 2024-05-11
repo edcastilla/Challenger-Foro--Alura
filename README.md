@@ -71,6 +71,15 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
 
+```
+{
+  "Name": "John",
+  "email": "John@gmail.com",
+  "password":$2y$10$iDE0NJ2WjmqardL8zm1Zv.sM7vv8YMyS9tr4H3wIu37WqKiQP2H7K
+  "perfil":2
+}
+```
+
 # <img src="editor.png" width="80" height="80">Autor
 Edgar Castilla
 
