@@ -2,10 +2,10 @@
 <h2 id="indice">Índice de la Página</h2>
 
 <ol>
-  <li><a href="#seccion1">Instalacion</a></li>
+  <li><a href="#seccion1">Instalación</a></li>
   <li><a href="#seccion2">Software y Herramientas Utilizadas</a></li>
   <li><a href="#seccion3">Estructura del Proyecto</a></li>
-  <li><a href="#seccion4">Modelo Entidad Relacion</a></li>
+  <li><a href="#seccion4">Modelo Entidad Relación</a></li>
   <li><a href="#seccion5">Postman</a></li>
 </ol>
 
@@ -16,7 +16,7 @@
 https://www.youtube.com/watch?v=GNavp28HDZM
 
 # <img src="instalacion.png" width="80" height="80"> Instalación.
-<h2 id="seccion1">Instalacion</h2>
+<h2 id="seccion1">Instalación</h2>
 <div>
 <ol>
   <li>Clona este repositorio en tu máquina local:<br> git clone
