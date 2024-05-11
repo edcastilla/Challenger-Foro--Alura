@@ -70,11 +70,14 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 <a href="#indice"><button>Ir al Índice</button></a>
 
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
-<p> Metodos </p>
--GET
--POST
--PUT
--DELETE
+<p> CRUD </p>
+<ol>
+  <li>GET<br> </li>
+  <li>POST</li>
+  <li>PUT</li>
+  <li>DELETE</li>
+</ol>
+
 ```
 {
   "Name": "John",
