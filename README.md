@@ -34,7 +34,7 @@ Spring data jpa:https://docs.spring.io/spring-data/jpa/reference/<br>
 <div style="background-color: #e6f3ff; padding: 20px;">
 <img src="ENTIDAD_RELACION_MYSQLWORBENCH.JPG" width="500" height="500">
 </div>
-# <img src="actualizar.png" width="80" height="80">Postman
+#<img src="postman.png" width="80" height="80">Postman
 
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
 
