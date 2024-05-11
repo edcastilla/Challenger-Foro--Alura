@@ -87,13 +87,13 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 }
 ```
 <p><b> GIT</b> </p>
-```
-git init
-git status
-git add .
-git commid -m "comentario"
-git push
-```
+<ol>
+  <li>git init<br> </li>
+  <li>git status</li>
+  <li>git add .</li>
+  <li>git push</li>
+</ol>
+
 # <img src="editor.png" width="80" height="80">Autor
 Edgar Castilla
 
