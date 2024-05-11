@@ -26,7 +26,7 @@ Postman:https://www.postman.com/<br>
 Java 17:https://www.oracle.com/java/technologies/downloads/<br>
 Spring data jpa:https://docs.spring.io/spring-data/jpa/reference/<br>
 
-# Estructura del proyecto
+# <img src="carpeta.png" width="80" height="80">Estructura del proyecto
 
 <img src="IMAGENINTELLIJID.JPG" width="500" height="500">
 
