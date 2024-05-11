@@ -1,3 +1,5 @@
+
+   
 # Challenger-Foro--Alura
 Bienvenidos al Challenger sobre el foro propuesto por Alura<br>
 Video de la aplicación:
@@ -17,6 +19,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 IntelliJ id :https://www.jetbrains.com/es-es/idea/ <br>
 Spring initializr :https://start.spring.io/<br>
 JSON Web Tokens:https://jwt.io/<br>
+Spring Security:https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html<br>
 bcript:https://bcrypt.online/<br>
 Mysql Workbench:https://www.mysql.com/products/workbench/<br>
 Postman:https://www.postman.com/<br>
@@ -24,7 +27,18 @@ Java 17:https://www.oracle.com/java/technologies/downloads/<br>
 Spring data jpa:https://docs.spring.io/spring-data/jpa/reference/<br>
 
 # Estructura del proyecto
-![]()
+
+<img src="IMAGENINTELLIJID.JPG" width="500" height="500">
+
+# Modelo Entidad Relacion
+<div style="background-color: #e6f3ff; padding: 20px;">
+<img src="ENTIDAD_RELACION_MYSQLWORBENCH.JPG" width="500" height="500">
+</div>
+# Postman
+
+<img src="IMAGENPOSTMAN.JPG" width="500" height="300">
 
 # Autor
 Edgar Castilla
+
+
