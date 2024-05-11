@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 <a href="#indice"><button>Ir al Índice</button></a>
 
 <img src="IMAGENPOSTMAN.JPG" width="500" height="300">
-<p> CRUD </p>
+<p><b>CRUD</b>  </p>
 <ol>
   <li>GET<br> </li>
   <li>POST</li>
@@ -86,7 +86,14 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   "perfil":2
 }
 ```
-
+<p><b> GIT</b> </p>
+```
+git init
+git status
+git add .
+git commid -m "comentario"
+git push
+```
 # <img src="editor.png" width="80" height="80">Autor
 Edgar Castilla
 
