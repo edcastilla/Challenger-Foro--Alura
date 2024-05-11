@@ -1,3 +1,12 @@
+<h1>Índice de la Página</h1>
+
+<ol>
+  <li><a href="#seccion1">Instalacion</a></li>
+  <li><a href="#seccion2">Software y Herramientas Utilizadas</a></li>
+  <li><a href="#seccion3">Estructura del Proyecto</a></li>
+  <li><a href="#seccion4">Modelo Entidad Relacion</a></li>
+  <li><a href="#seccion5">Postman</a></li>
+</ol>
 
    
 # <img src="challenger.png" width="80" height="80">Challenger-Foro--Alura.
@@ -5,7 +14,7 @@
 <b><h3>Video de la aplicación:</h3></b>
 https://www.youtube.com/watch?v=GNavp28HDZM
 
-#  <img src="instalacion.png" width="80" height="80">Instalación.
+ <  img src="instalacion.png" width="80" height="80"> <h1 id="seccion1">Instalación.</h1>
 <div>
 <ol>
   <li>Clona este repositorio en tu máquina local:<br> git clone
