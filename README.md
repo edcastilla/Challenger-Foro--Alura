@@ -46,6 +46,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
     <li><b>Java 17. link :&nbsp;https://www.oracle.com/java/technologies/downloads/<br></li>
     <li><b>Spring data jpa. link :https://docs.spring.io/spring-data/jpa/reference/<br></li>
    <li><b>Maven Repository. link :&nbsp;https://mvnrepository.com/<br></li>
+     <li><b>Bcrypt. link :&nbsp;https://bcrypt.online/<br></li>
 </ul>
 <a href="#indice"><button>Ir al Índice</button></a>
 
