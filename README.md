@@ -38,15 +38,25 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 # <img src="software.png" width="80" height="80">Software y herramientas utilizadas.
 <h2 id="seccion2">Software y herramientas utilizadas.</h2>
 <ul>
-    <li><b>IntelliJ id. link :&nbsp;https://www.jetbrains.com/es-es/idea/ </li>
-    <li><b>Spring initializr. link :&nbsp;https://start.spring.io/</li>
-    <li><b>Spring Security. link :&nbsp;https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html</li>
-    <li><b>Mysql Workbench. link :&nbsp;https://www.mysql.com/products/workbench/</li>
-    <li><b>Postman. link :&nbsp;https://www.postman.com/</li>
-    <li><b>Java 17. link :&nbsp;https://www.oracle.com/java/technologies/downloads/<br></li>
-    <li><b>Spring data jpa. link :https://docs.spring.io/spring-data/jpa/reference/<br></li>
-   <li><b>Maven Repository. link :&nbsp;https://mvnrepository.com/<br></li>
-     <li><b>Bcrypt. link :&nbsp;https://bcrypt.online/<br></li>
+   <li><b>IntelliJ id. link :&nbsp;</li>
+        <a href="https://www.jetbrains.com/es-es/idea/">JetBrains IntelliJ IDEA</a>
+
+    <li><b>Spring initializr. link :&nbsp;</li>
+        <a href="https://start.spring.io/">Spring initializr.</a>
+    <li><b>Spring Security. link :&nbsp;</li>
+        <a href="https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html">Spring Security.</a>
+        <li><b>Mysql Workbench. link :&nbsp;</li>
+            <a href="https://www.mysql.com/products/workbench/">Mysql Workbench.</a>
+            <li><b>Postman. link :&nbsp;</li>
+                <a href="https://www.postman.com/">Postman.</a> 
+            <li><b>Java 17. link :&nbsp;</li>
+                <a href="https://www.oracle.com/java/technologies/downloads/">Java 17.</a> 
+            <li><b>Spring data jpa. link :</li>
+                <a href="https://docs.spring.io/spring-data/jpa/reference/">Spring data jpa.</a>
+           <li><b>Maven Repository. link :&nbsp;</li>
+            <a href="https://mvnrepository.com/">Maven Repository.</a>
+             <li><b>Bcrypt. link :&nbsp;<br></li>
+                <a href="https://bcrypt.online/">Bcrypt.</a> 
 </ul>
 <a href="#indice"><button>Ir al Índice</button></a>
 
