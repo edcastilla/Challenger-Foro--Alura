@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
    
 
 
-# <img src="instalacion.png" width="80" height="80"> Instalación.
+# <img src="img/instalacion.png" width="80" height="80"> Instalación.
 <h2 id="seccion1">Instalación.Installation</h2>
 <div>
 <ol>
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   
  <a href="#indice"><button>Ir al Índice.Go to Index</button></a> 
  
-# <img src="software.png" width="80" height="80">Software y herramientas utilizadas.Software and Tools Used.
+# <img src="img/software.png" width="80" height="80">Software y herramientas utilizadas.Software and Tools Used.
 <h2 id="seccion2">Software y herramientas utilizadas.Software and Tools Used.</h2>
 <ul>
     <li><b>IntelliJ IDEA. link :</b>&nbsp;<a href="https://www.jetbrains.com/es-es/idea/">JetBrains IntelliJ IDEA</a></li>
@@ -54,32 +54,32 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 <a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 
 
-# <img src="carpeta.png" width="80" height="80">Estructura del proyecto.Project Structure
+# <img src="img/carpeta.png" width="80" height="80">Estructura del proyecto.Project Structure
 <h2 id="seccion3">Estructura del proyecto.Project Structure.</h2>
 
 <img src="IMAGENINTELLIJID.JPG" width="500" height="500">
 
 <a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 
-# <img src="tabla.png" width="80" height="80">Modelo Entidad Relación.Entity Relationship Model.
+# <img src="img/tabla.png" width="80" height="80">Modelo Entidad Relación.Entity Relationship Model.
 <h2 id="seccion4">Modelo Entidad Relación.Entity Relationship Model.</h2>
 
 <a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 
 <div style="background-color: #e6f3ff; padding: 20px;">
-<img src="ENTIDAD_RELACION_MYSQLWORBENCH.JPG" width="500" height="500">
+<img src="img/ENTIDAD_RELACION_MYSQLWORBENCH.JPG" width="500" height="500">
 </div>
 
 
 
 
-<img src="postman.png" width="80" height="80"><h1 style="color: #007bff;">Postman</h1>
+<img src="img/postman.png" width="80" height="80"><h1 style="color: #007bff;">Postman</h1>
 <a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 <h2 id="seccion5">Postman.</h2>
 
 
 
-<img src="IMAGENPOSTMAN.JPG" width="500" height="300">
+<img src="img/IMAGENPOSTMAN.JPG" width="500" height="300">
 
 <h2 id="seccion6">CRUD</h2>
 <p><b>CRUD</b>  </p>
@@ -108,7 +108,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   <li>git push</li>
 </ol>
 
-# <img src="editor.png" width="80" height="80">Autor Edgar Castilla
+# <img src="img/editor.png" width="80" height="80">Autor Edgar Castilla
 
 ![My Skills](https://skillicons.dev/icons?i=java,nodejs,html,css,js,docker,flask,git,github,idea,kubernetes,linux,mongodb,mysql,php,postgres,postman,py,pytorch,replit,spring,sqlite,tensorflow,vscode,figma&theme=light)
 
