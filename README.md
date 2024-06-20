@@ -1,5 +1,5 @@
 
-# <img src="challenger.png" width="80" height="80">Challenger-Foro--Alura.
+# <img src="img/challenger.png" width="80" height="80">Challenger-Foro--Alura.
 <b><h3>Bienvenidos al Challenger sobre el Foro propuesto por Alura.Welcome to the Challenger on the Forum proposed by Alura</h3></b><br>
 <b><h2>Video de la aplicación:application video(5 MAY 2024)</h2></b>
 <img src="img/video.JPG" width="600" height="600">
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 <h2 id="seccion3">Estructura del proyecto.</h2>
  <h2> Project Structure.</h2>
 
-<img src="IMAGENINTELLIJID.JPG" width="500" height="500">
+<img src="img/IMAGENINTELLIJID.JPG" width="500" height="500">
 
 <a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 
