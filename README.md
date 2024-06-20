@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 </ul>
 
 
-<a href="#indice"><button>Ir al Índice</button></a>
+<a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 
 
 # <img src="carpeta.png" width="80" height="80">Estructura del proyecto.
@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 # <img src="tabla.png" width="80" height="80">Modelo Entidad Relación.
 <h2 id="seccion4">Modelo Entidad Relación.</h2>
 
-<a href="#indice"><button>Ir al Índice</button></a>
+<a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 
 <div style="background-color: #e6f3ff; padding: 20px;">
 <img src="ENTIDAD_RELACION_MYSQLWORBENCH.JPG" width="500" height="500">
