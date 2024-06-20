@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
    
 
 
-# <img src="img/instalacion.png" width="80" height="80"> Instalación.
+# <img src="img/instalacion.png" width="80" height="80"> Instalación.Installation
 <h2 id="seccion1">Instalación.Installation</h2>
 <div>
 <ol>
