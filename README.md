@@ -2,8 +2,6 @@
 # <img src="challenger.png" width="80" height="80">Challenger-Foro--Alura.
 <b><h3>Bienvenidos al Challenger sobre el Foro propuesto por Alura.Welcome to the Challenger on the Forum proposed by Alura</h3></b><br>
 <b><h2>Video de la aplicación:application video</h2></b>
-<span style="color: blue;">## **Video de la aplicación: application video**</span>
-
 https://www.youtube.com/watch?v=GNavp28HDZM
 <b><h2>Desarrollo Challenger Foro:Development Challenger Forum</h2></b>
 <p>Crearemos una API REST usando Spring.We will create a REST API using Spring<br>CRUD (CREATE, READ, UPDATE, DELETE) </p>
