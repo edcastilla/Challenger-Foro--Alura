@@ -1,6 +1,6 @@
 
 # <img src="challenger.png" width="80" height="80">Challenger-Foro--Alura.
-<b><h3>Bienvenidos al Challenger sobre el Foro propuesto por Alura.</h3></b><br>
+<b><h3>Bienvenidos al Challenger sobre el Foro propuesto por Alura.Welcome to the Challenger on the Forum proposed by Alura</h3></b><br>
 <b><h2>Video de la aplicación:application video</h2></b>
 https://www.youtube.com/watch?v=GNavp28HDZM
 <b><h2>Desarrollo Challenger Foro:Development Challenger Forum</h2></b>
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
   
  <a href="#indice"><button>Ir al Índice.Go to Index</button></a> 
  
-# <img src="software.png" width="80" height="80">Software y herramientas utilizadas.
+# <img src="software.png" width="80" height="80">Software y herramientas utilizadas.Software and Tools Used.
 <h2 id="seccion2">Software y herramientas utilizadas.Software and Tools Used.</h2>
 <ul>
     <li><b>IntelliJ IDEA. link :</b>&nbsp;<a href="https://www.jetbrains.com/es-es/idea/">JetBrains IntelliJ IDEA</a></li>
