@@ -54,15 +54,15 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 <a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 
 
-# <img src="carpeta.png" width="80" height="80">Estructura del proyecto.
-<h2 id="seccion3">Estructura del proyecto.</h2>
+# <img src="carpeta.png" width="80" height="80">Estructura del proyecto.Project Structure
+<h2 id="seccion3">Estructura del proyecto.Project Structure.</h2>
 
 <img src="IMAGENINTELLIJID.JPG" width="500" height="500">
 
 <a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 
-# <img src="tabla.png" width="80" height="80">Modelo Entidad Relación.
-<h2 id="seccion4">Modelo Entidad Relación.</h2>
+# <img src="tabla.png" width="80" height="80">Modelo Entidad Relación.Entity Relationship Model.
+<h2 id="seccion4">Modelo Entidad Relación.Entity Relationship Model.</h2>
 
 <a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 
