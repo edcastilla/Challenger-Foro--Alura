@@ -1,19 +1,19 @@
 
 # <img src="challenger.png" width="80" height="80">Challenger-Foro--Alura.
 <b><h3>Bienvenidos al Challenger sobre el Foro propuesto por Alura.</h3></b><br>
-<b><h2>Video de la aplicación:</h2></b>
+<b><h2>Video de la aplicación:application video</h2></b>
 https://www.youtube.com/watch?v=GNavp28HDZM
-<b><h2>Desarrollo Challenger Foro:</h2></b>
-<p>Crearemos una API REST usando Spring.<br>CRUD (CREATE, READ, UPDATE, DELETE) </p>
+<b><h2>Desarrollo Challenger Foro:Development Challenger Forum</h2></b>
+<p>Crearemos una API REST usando Spring.We will create a REST API using Spring<br>CRUD (CREATE, READ, UPDATE, DELETE) </p>
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-<h2 id="indice">Índice de la Página</h2>
+<h2 id="indice">Índice de la Página. Page Index.</h2>
 
 <ol>
-  <li><a href="#seccion1">Instalación.</a></li>
-  <li><a href="#seccion2">Software y Herramientas Utilizadas.</a></li>
-  <li><a href="#seccion3">Estructura del Proyecto.</a></li>
-  <li><a href="#seccion4">Modelo Entidad Relación.</a></li>
+  <li><a href="#seccion1">Instalación.Installation.</a></li>
+  <li><a href="#seccion2">Software y Herramientas Utilizadas.Software and Tools Used.</a></li>
+  <li><a href="#seccion3">Estructura del Proyecto.Project Structure</a></li>
+  <li><a href="#seccion4">Modelo Entidad Relación.Entity Relationship Model.</a></li>
   <li><a href="#seccion5">Postman.</a></li>
   <li><a href="#seccion6">CRUD</a></li>
   <li><a href="#seccion7">GIT</a></li>
@@ -23,20 +23,20 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 
 # <img src="instalacion.png" width="80" height="80"> Instalación.
-<h2 id="seccion1">Instalación</h2>
+<h2 id="seccion1">Instalación.Installation</h2>
 <div>
 <ol>
-  <li>Clona este repositorio en tu máquina local:<br> git clone
+  <li>Clona este repositorio en tu máquina local:Clone this repository to your local machine<br> git clone
    https://github.com/edcastilla/Challenger-Foro--Alura</li>
-  <li>Abre el proyecto en su IDE Favorito.</li>
-  <li>Recuerda tener instalado Java en su sistema.</li>
+  <li>Abre el proyecto en su IDE Favorito.Open the project in your Favorite IDE</li>
+  <li>Recuerda tener instalado Java en su Sistema.Remember to have Java installed on your System.</li>
 </ol>
   </div>
   
- <a href="#indice"><button>Ir al Índice</button></a> 
+ <a href="#indice"><button>Ir al Índice.Go to Index</button></a> 
  
 # <img src="software.png" width="80" height="80">Software y herramientas utilizadas.
-<h2 id="seccion2">Software y herramientas utilizadas.</h2>
+<h2 id="seccion2">Software y herramientas utilizadas.Software and Tools Used.</h2>
 <ul>
     <li><b>IntelliJ IDEA. link :</b>&nbsp;<a href="https://www.jetbrains.com/es-es/idea/">JetBrains IntelliJ IDEA</a></li>
     <li><b>Spring initializr. link :</b>&nbsp;<a href="https://start.spring.io/">Spring initializr.</a></li>
@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 <img src="IMAGENINTELLIJID.JPG" width="500" height="500">
 
-<a href="#indice"><button>Ir al Índice</button></a>
+<a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 
 # <img src="tabla.png" width="80" height="80">Modelo Entidad Relación.
 <h2 id="seccion4">Modelo Entidad Relación.</h2>
@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 
 <img src="postman.png" width="80" height="80"><h1 style="color: #007bff;">Postman</h1>
-<a href="#indice"><button>Ir al Índice</button></a>
+<a href="#indice"><button>Ir al Índice.Go to Index</button></a>
 <h2 id="seccion5">Postman.</h2>
 
 
@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 ```
 <h2 id="seccion7">GIT</h2>
 <p><b> GIT</b> </p>
-<a href="#indice"><button>Ir al Índice</button></a> 
+<a href="#indice"><button>Ir al Índice.Go to Index</button></a> 
 <ol>
   <li>git init<br> </li>
   <li>git status</li>
