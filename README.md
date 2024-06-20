@@ -56,7 +56,8 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 
 
 # <img src="img/carpeta.png" width="80" height="80">Estructura del proyecto.Project Structure
-<h2 id="seccion3">Estructura del proyecto.Project Structure.</h2>
+<h2 id="seccion3">Estructura del proyecto.</h2>
+ <h2> Project Structure.</h2>
 
 <img src="IMAGENINTELLIJID.JPG" width="500" height="500">
 
